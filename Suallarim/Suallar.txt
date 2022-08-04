@@ -1,1 +1,4 @@
 #home-da neye gore before yox, after pseduo klass goturulur?
+container-e birbasa flex vermek olmazmi? Neye gore row class-i yaradib row-a verilir bu container?
+Hemcinin, ul-i birbasa ortaya getirmek olmazdirmi parent elemente esasen? Neye gore onu home-navbar-nav-in icine salinib?
+col-10 klasina birbasa hem de display:flex verilmesi niye olmaz? 
