@@ -1,0 +1,5 @@
+top-header bolmesinde elementleri ( oxu.az, haqqimizda ve s.) ve card-body-dekileri nece merkezlesdirim?
+"input search" daxilinde logonu nece yerlesdirim
+bottom-navbar-i ortalamaq
+
+card-header-le card-body arasindaki boslugu nece legv edim
